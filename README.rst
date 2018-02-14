@@ -1,3 +1,5 @@
+GraphGrail Ai – is the world’s first Artificial Intelligence platform for Blockchain built on top of Natural Language Understanding technology with the DApps marketplace.
+
 lda2vec: Tools for interpreting natural language
 =================================================
 
@@ -107,3 +109,6 @@ Requirements for some features:
 
 - CUDA support
 - Testing utilities: py.test
+
+This module is not belong to Graph Grail!!!
+It will be used to integrate with the micro services provided by Graph Grail.
